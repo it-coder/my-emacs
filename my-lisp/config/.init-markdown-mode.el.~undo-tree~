@@ -1,0 +1,10 @@
+(undo-tree-save-format-version . 1)
+"e865c222ff68bd469f35cd46017ee7161e2a0e6f"
+[nil nil nil nil (25411 50314 996545 0) 0 nil]
+([nil nil ((46 . 47) (nil rear-nonsticky nil 45 . 46) (nil fontified nil 1 . 46) (1 . 46) (t . -1)) nil (25411 50314 996526 0) 0 nil])
+([nil nil ((#("https://github.com/jrblevin/markdown-mode.git
+" 0 44 (fontified t) 44 45 (fontified t rear-nonsticky t) 45 46 (fontified t)) . 1) (undo-tree-id0 . -46) (undo-tree-id1 . -45) (undo-tree-id2 . -46) 46 (t 25411 50314 998786 738000)) nil (25411 50321 61977 0) 0 nil])
+([nil nil ((nil rear-nonsticky nil 2336 . 2337) (nil fontified nil 1 . 2337) (1 . 2337)) nil (25411 50321 61804 0) 0 nil])
+([nil nil ((2027 . 2028) (t 25411 50321 64489 357000)) nil (25411 51000 493966 0) 0 nil])
+([nil current ((#(";" 0 1 (fontified t face font-lock-comment-delimiter-face)) . -2027) (undo-tree-id0 . -1) 2028 (t 25411 51000 496407 727000)) nil (25411 52433 153811 0) 0 nil])
+nil

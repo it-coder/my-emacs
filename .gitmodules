@@ -1,0 +1,51 @@
+[submodule "my-lisp/extensions/monokai-emacs"]
+	path = my-lisp/extensions/monokai-emacs
+	url = https://github.com/oneKelvinSmith/monokai-emacs.git
+[submodule "my-lisp/extensions/treemacs"]
+	path = my-lisp/extensions/treemacs
+	url = https://github.com/Alexander-Miller/treemacs.git
+[submodule "my-lisp/extensions/projectile"]
+	path = my-lisp/extensions/projectile
+	url = https://github.com/bbatsov/projectile.git
+[submodule "my-lisp/extensions/undo-tree"]
+	path = my-lisp/extensions/undo-tree
+	url = https://gitlab.com/tsc25/undo-tree.git
+[submodule "my-lisp/extensions/queue"]
+	path = my-lisp/extensions/queue
+	url = https://github.com/emacs-straight/queue.git
+[submodule "my-lisp/extensions/ivy"]
+	path = my-lisp/extensions/ivy
+	url = https://github.com/abo-abo/swiper.git
+[submodule "my-lisp/extensions/lsp-bridge"]
+	path = my-lisp/extensions/lsp-bridge
+	url = https://github.com/manateelazycat/lsp-bridge.git
+[submodule "my-lisp/extensions/markdown-mode"]
+	path = my-lisp/extensions/markdown-mode
+	url = https://github.com/jrblevin/markdown-mode.git
+[submodule "my-lisp/extensions/posframe"]
+	path = my-lisp/extensions/posframe
+	url = https://github.com/tumashu/posframe.git
+[submodule "my-lisp/extensions/yasnippet"]
+	path = my-lisp/extensions/yasnippet
+	url = https://github.com/joaotavora/yasnippet.git
+[submodule "my-lisp/extensions/web-mode"]
+	path = my-lisp/extensions/web-mode
+	url = https://github.com/fxbois/web-mode.git
+[submodule "my-lisp/extensions/rainbow-delimiters"]
+	path = my-lisp/extensions/rainbow-delimiters
+	url = https://github.com/Fanael/rainbow-delimiters.git
+[submodule "my-lisp/extensions/olivetti"]
+	path = my-lisp/extensions/olivetti
+	url = https://github.com/rnkn/olivetti.git
+[submodule "my-lisp/extensions/esxml"]
+	path = my-lisp/extensions/esxml
+	url = https://github.com/tali713/esxml.git
+[submodule "my-lisp/extensions/tree-sitter"]
+	path = my-lisp/extensions/tree-sitter
+	url = https://github.com/emacs-tree-sitter/elisp-tree-sitter
+[submodule "my-lisp/extensions/smex"]
+	path = my-lisp/extensions/smex
+	url = https://github.com/nonsequitur/smex.git
+[submodule "my-lisp/extensions/awesome-tray"]
+	path = my-lisp/extensions/awesome-tray
+	url = https://github.com/manateelazycat/awesome-tray.git
